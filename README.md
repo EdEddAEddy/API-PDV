@@ -8,6 +8,14 @@
 * Gerenciamento de clientes (cadastro, listagem, exclusão)
 * Gerenciamento de pedidos (cadastro, listagem)
 
+**Tecnologias utilizadas**
+Node.js
+Prisma
+Express.js
+PostgreSQL
+Bcrypt para criptografia de senhas
+JSON Web Tokens (JWT) para autenticação
+
 **Pré-requisitos**
 
 Antes de começar, você precisa ter o Node.js instalado em sua máquina.
